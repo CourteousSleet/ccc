@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-#includ <limits>
+#include <limits>
 
 using namespace std;
 
